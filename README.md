@@ -4,5 +4,5 @@ My name is Grace, and I'm a student at the University of Pennsylvania interested
 
 -  I recently collaborated with a group to create AIvsHuman, a 2D horror game made with Unity. This was made in one day, over the course of the 2025 UPGRADE gamejam. [Check out my project here!](https://github.com/grace866/AIvsHumanUPGRADE)
 - I'm also working on a 3D game based on Overcooked with my UPGRADE team members [Check out my project here!](https://github.com/grace866/Overbrewed)
-- I’m currently taking CIS 3200 (Introduction to Algorithms), CIS 4190 (Applied Machine Learning), CIS 4600 (Interactive Computer Graphics), DSGN 1030 (3D Computer Modeling), and DSGN 1020 (Web Design)
+- I’m currently working on a mini minecraft project in CIS 4600 (Interactive Computer Graphics) built in modern OpenGL and C++ and an Image2GPS project in CIS 4190 (Applied Machine Learning) that will predict the camera location based on an input image
 
