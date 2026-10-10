@@ -1,4 +1,4 @@
-### Hi I'm Grace, a CG student at the University of Pennsylvania!
+Hi I'm Grace, a CG student at the University of Pennsylvania!
 
 - Recently, I've been working on a [CUDA Monte Carlo Pathtracer](https://github.com/grace866/Project3-CUDA-Path-Tracer-CIS565). 
 - I've made some cool games with my UPGRADE team members: [Check out OVERBREWED!](https://github.com/grace866/Overbrewed) [Check out AIvsHuman!](https://github.com/grace866/AIvsHumanUPGRADE)
