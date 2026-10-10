@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Grace, and I'm a student at the University of Pennsylvania interested in computer graphics and animation. I'm also exploring other areas such as data processing and web development!
+My name is Grace, and I'm a CG student at the University of Pennsylvania!
 
--  I recently collaborated with a group to create AIvsHuman, a 2D horror game made with Unity. This was made in one day, over the course of the 2025 UPGRADE gamejam. [Check out my project here!](https://github.com/grace866/AIvsHumanUPGRADE)
-- I'm also working on a 3D game based on Overcooked with my UPGRADE team members [Check out my project here!](https://github.com/grace866/Overbrewed)
-- I’m currently working on a mini minecraft project in CIS 4600 (Interactive Computer Graphics) built in modern OpenGL and C++ and an Image2GPS project in CIS 4190 (Applied Machine Learning) that will predict the camera location based on an input image
+- Recently, I've been working on a CUDA Monte Carlo Pathtracer. [Check out my project here!](https://github.com/grace866/Project3-CUDA-Path-Tracer-CIS565) 
+- I've made some cool games with my UPGRADE team members [Check out OVERBREWED!](https://github.com/grace866/Overbrewed) [Check out AIvsHuman!](https://github.com/grace866/AIvsHumanUPGRADE)
+- I'm currently taking GPU Programming and Architecture, Computer Animation, Procedural Design and Virtual Environments, and Introduction to Computer Systems
 
